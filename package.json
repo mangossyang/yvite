@@ -1,0 +1,20 @@
+{
+  "name": "yvite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yvite.js",
+  "scripts": {
+    "dev": "nodemon ./yvite.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.23",
+    "koa": "^2.13.4"
+  },
+  "dependencies": {
+    "vue": "^3.2.23"
+  }
+}
